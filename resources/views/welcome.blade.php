@@ -82,147 +82,180 @@
                     </a>.</h6>
             </div> -->
         </div>
+        <!--Partners section  -->
+        <section style="background: rgba(255,255,255,0.4);">
+          <div class="container bloc-lg">
+              <div class="row">
+                  <div class="col-sm-2 text-center">
+                      <img src="images/kcb.jpg" width="150px" height="50px" alt="ny-times"/>
+                  </div>
+                  <div class="col-sm-2 text-center">
+                      <img src="images/cic.png" width="80px" height="50px" alt="ny-times"/>
+                  </div>
+                  <div class="col-sm-2 text-center">
+                      <img src="images/trans.jpg" width="150px" height="50px" alt="ny-times"/>
+                  </div>
+                  <div class="col-sm-2 text-center">
+                      <img src="images/mtrh.png" width="80px" height="80px" alt="ny-times"/>
+                  </div>
+                  <div class="col-sm-2 text-center">
+                      <img src="images/coorp.jpeg" width="150px" height="50px" alt="ny-times"/>
+                  </div>
+                  <div class="col-sm-2 text-center">
+                      <img src="images/im.png" width="150px" height="50px" alt="ny-times"/>
+                  </div>
+              </div>
+              <div class="row">
+              </br>
+              </div>
 
-        <div class="container bloc-lg">
-            <div class="row">
-                <div class="col-sm-2 text-center">
-                    <img src="images/kcb.jpg" width="150px" height="50px" alt="ny-times"/>
-                </div>
-                <div class="col-sm-2 text-center">
-                    <img src="images/cic.png" width="80px" height="50px" alt="ny-times"/>
-                </div>
-                <div class="col-sm-2 text-center">
-                    <img src="images/trans.jpg" width="150px" height="50px" alt="ny-times"/>
-                </div>
-                <div class="col-sm-2 text-center">
-                    <img src="images/mtrh.png" width="80px" height="80px" alt="ny-times"/>
-                </div>
-                <div class="col-sm-2 text-center">
-                    <img src="images/coorp.jpeg" width="150px" height="50px" alt="ny-times"/>
-                </div>
-                <div class="col-sm-2 text-center">
-                    <img src="images/im.png" width="150px" height="50px" alt="ny-times"/>
-                </div>
-            </div>
-            <div class="row">
-            </br>
-            </div>
+              <div class="row">
+                  <div class="col-sm-2 text-center">
+                      <img src="images/nic.jpeg" width="60px" height="60px" alt="ny-times"/>
+                  </div>
+                  <div class="col-sm-2 text-center">
+                      <img src="images/krep.png" width="80px" height="50px" alt="ny-times"/>
+                  </div>
+                  <div class="col-sm-2 text-center">
+                      <img src="images/equity.png" width="80px" height="80px" alt="ny-times"/>
+                  </div>
+                  <div class="col-sm-2 text-center">
+                      <img src="images/nandi.jpeg" width="80px" height="80px" alt="ny-times"/>
+                  </div>
+                  <div class="col-sm-2 text-center">
+                      <img src="images/afc.jpeg" width="180px" height="50px" alt="ny-times"/>
+                  </div>
+                  <div class="col-sm-2 text-center">
+                      <img src="images/telkom.jpeg" width="150px" height="50px" alt="ny-times"/>
+                  </div>
+              </div>
+              <div class="row">
+                  <br><br>
+                  <div class="panel-heading text-center" role="tab">
+                      <h4 class="panel-title">
+                          <a class="btn  btn-xl btn-wire wire-btn-carmine-pink animDelay06 animated fadeInUp" data-toggle="collapse"
+                             data-parent="#accordion"
+                             href="#collapseClients" aria-expanded="false">More Partners....</a>
+                      </h4>
+                  </div>
+                  <div id="collapseClients" class="panel-collapse collapse" role="tabpanel" aria-expanded="false"
+                       style="height: 0px;">
+                      <div class="row">
+                        <div class="col-md-4 text-left">
+                          <h4>Boards and Corporations:-</h4>
+                          <ul>
+                            <li>Agricultural Finance Corporation.</li>
+                            <li>Kenya Railways Corporation.</li>
+                            <li>Industrial Commercial Development Corporation.</li>
+                            <li>National Cereals and Produce Board.</li>
+                            <li>Kenya Re-insurance Corporation.</li>
+                            <li>Telkom Kenya</li>
+                            <li>Kenya Forest Service</li>
+                            <li>Rural Electrification Authority</li>
+                            <li>Kenya Medical Research Institute(KEMRI)</li>
+                            <li>Kenya Rural Roads Authority.</li>
+                          </ul>
+                        </div>
 
-            <div class="row">
-                <div class="col-sm-2 text-center">
-                    <img src="images/nic.jpeg" width="60px" height="60px" alt="ny-times"/>
-                </div>
-                <div class="col-sm-2 text-center">
-                    <img src="images/krep.png" width="80px" height="50px" alt="ny-times"/>
-                </div>
-                <div class="col-sm-2 text-center">
-                    <img src="images/equity.png" width="80px" height="80px" alt="ny-times"/>
-                </div>
-                <div class="col-sm-2 text-center">
-                    <img src="images/nandi.jpeg" width="80px" height="80px" alt="ny-times"/>
-                </div>
-                <div class="col-sm-2 text-center">
-                    <img src="images/afc.jpeg" width="180px" height="50px" alt="ny-times"/>
-                </div>
-                <div class="col-sm-2 text-center">
-                    <img src="images/telkom.jpeg" width="150px" height="50px" alt="ny-times"/>
-                </div>
-            </div>
-            <div class="row">
-                <br><br>
-                <div class="panel-heading text-center" role="tab">
-                    <h4 class="panel-title">
-                        <a class="btn  btn-xl btn-wire wire-btn-carmine-pink animDelay06 animated fadeInUp" data-toggle="collapse"
-                           data-parent="#accordion"
-                           href="#collapseClients" aria-expanded="false">And More ....</a>
-                    </h4>
-                </div>
-                <div id="collapseClients" class="panel-collapse collapse" role="tabpanel" aria-expanded="false"
-                     style="height: 0px;">
-                    <div class="row">
-                      <div class="col-md-4 text-left">
-                        <h4>Boards and Corporations:-</h4>
-                        <ul>
-                          <li>Agricultural Finance Corporation.</li>
-                          <li>Kenya Railways Corporation.</li>
-                          <li>Industrial Commercial Development Corporation.</li>
-                          <li>National Cereals and Produce Board.</li>
-                          <li>Kenya Re-insurance Corporation.</li>
-                          <li>Telkom Kenya</li>
-                          <li>Kenya Forest Service</li>
-                          <li>Rural Electrification Authority</li>
-                          <li>Kenya Medical Research Institute(KEMRI)</li>
-                          <li>Kenya Rural Roads Authority.</li>
-                        </ul>
+                        <div class="col-md-4 text-left">
+                          <h4>Private Commercial Companies:-</h4>
+                          <ul>
+                            <li>FIMS Limited.</li>
+                            <li>Eldochem Limited.</li>
+                            <li>Eldoret Farm Machinery Limited.</li>
+                            <li>Kenya Farmers’ Association.</li>
+                            <li>EATEC Limited.</li>
+                            <li>Shiv Construction Company Limited.</li>
+                            <li>Vishva Builders Limited.</li>
+                            <li>Tipsy Company Limited.</li>
+                            <li>Turner Barker &amp; Hatfield Limited.</li>
+                          </ul>
+                        </div>
+
+                        <div class="col-md-4">
+                          <h4>Other Banks</h4>
+                          <ul>
+                            <li>Commercial Bank of Africa</li>
+                            <li>Imperial Bank</li>
+                            <li>Family Bank</li>
+                            <li>CFC Stanbic Bank</li>
+                            <li>Bank of Africa.</li>
+                            <li>African Banking Corporation Limited.</li>
+                            <h4>Insurance</h4>
+                            <li>Co-operative Insurance Company Limited.</li>
+                            <h4>Local Authorities</h4>
+                            <li>Uasin Gishu County Government.</li>
+                            <li>Nandi County Council.</li>
+                          </ul>
+                        </div>
+
                       </div>
+                  </div>
+              </div>
+          </div>
+        </section>
+        <!-- end partners section -->
+        <section>
+          <div class="container">
+            <div class="row">
 
-                      <div class="col-md-4 text-left">
-                        <h4>Private Commercial Companies:-</h4>
-                        <ul>
-                          <li>FIMS Limited.</li>
-                          <li>Eldochem Limited.</li>
-                          <li>Eldoret Farm Machinery Limited.</li>
-                          <li>Kenya Farmers’ Association.</li>
-                          <li>EATEC Limited.</li>
-                          <li>Shiv Construction Company Limited.</li>
-                          <li>Vishva Builders Limited.</li>
-                          <li>Tipsy Company Limited.</li>
-                          <li>Turner Barker &amp; Hatfield Limited.</li>
-                        </ul>
-                      </div>
-
-                      <div class="col-md-4">
-                        <h4>Other Banks</h4>
-                        <ul>
-                          <li>Commercial Bank of Africa</li>
-                          <li>Imperial Bank</li>
-                          <li>Family Bank</li>
-                          <li>CFC Stanbic Bank</li>
-                          <li>Bank of Africa.</li>
-                          <li>African Banking Corporation Limited.</li>
-                          <h4>Insurance</h4>
-                          <li>Co-operative Insurance Company Limited.</li>
-                          <h4>Local Authorities</h4>
-                          <li>Uasin Gishu County Government.</li>
-                          <li>Nandi County Council.</li>
-                        </ul>
-                      </div>
-
-                    </div>
-                </div>
             </div>
-        </div>
-
-        <footer class="footer" data-background-color="black">
-            <div class="container">
-                <nav>
-                    <ul>
-                        <li>
-                            <a href="/kalyateam">
-                                Our Team
-                            </a>
-                        </li>
-                        <li>
-                            <a href="/kalyabout">
-                                About Us
-                            </a>
-                        </li>
-                        <li>
-                            <a href="/kalyablogs">
-                                Blog
-                            </a>
-                        </li>
-                    </ul>
-                </nav>
-                <div class="copyright">
+          </div>
+        </section>
+        <section>
+          <footer id="imond-footer" role="contentinfo">
+        		<div class="container">
+        			<div class="row row-pb-md">
+        				<div class="col-md-4 text-center line imond-widget">
+        					<h4><b>Advocates Prayer</b></h4>
+        					<p class="imond3" align="justify">Lord, Grant that i may be able in argument, Accurate in analysis, Strict in study, candid with clients and honest with adverseries.
+                    Sit with me in my desk and listen with me to my clients plaints, read with me in my library, and
+                    stand with me court. So that today i shall not, in order to win a point, lose my soul. ST. THOMAS MORE </p>
+        				</div>
+                <div class="col-md-3">
+                  <h4>Nairobi Office</h4>
+        					<ul class="imond-footer-links">
+        						<li>Lange Lange Flats, Suite number 9, <br>Between Heron Court Hotel &amp;
+                      Middle East Bank, <br>Milimani Road,</li>
+                    <li>P. O. Box 100032-000101 GPO <br> NAIROBI.</li>
+        						<li><a href="#">Cell: 020-8020887/0714 491 413</a></li>
+        						<li><a href="mailto:kalya@kalyacounsel.co.ke">kalya@kalyacounsel.com</a></li>
+        						<li><a href="http://kalyacounsel.co.ke">www.kalyacounsel.com</a></li>
+        					</ul>
+        				</div>
+                <div class="col-md-3 col-md-push-1">
+                  <h4>Eldoret Office</h4>
+        					<ul class="imond-footer-links">
+        						<li>2nd Floor, Sakong House <br>Kenyatta Street </li>
+                    <li>P. O. Box 235-30100 <br>ELDORET.</li>
+        						<li><a href="#"> </a>Tel: 053-2063317/2061239	</li>
+        						<li><a href="mailto:kalya@kalyacounsel.com">kalya@kalyacounsel.co.ke</a></li>
+        						<li><a href="http://kalyacounsel.com">www.kalyacounsel.com</a></li>
+        					</ul>
+        				</div>
+        				<div class="col-md-2">
+        					<h4>Opening Hours</h4>
+        					<ul class="imond-footer-links">
+        						<li>Mon - Fri: 9:00 - 21:00</li>
+        						<li>Fri 8:00 - 21:00</li>
+        						<li>Sat 9:30 - 15:00</li>
+        					</ul>
+        				</div>
+        			</div>
+              <div class="row copyright">
+        				<div class="col-md-12 text-center">
+        					<p>
+        						<small class="block imondblack">
                     &copy;
                     <script>
                         document.write(new Date().getFullYear())
-                    </script>Kalya &amp; CO Advocates <br> Designed &amp; Coded by
-                    <a href="#" target="_blank">iMond Solutions</a>.
-                </div>
-            </div>
-        </footer>
+                    </script> Kalya &amp; CO Advocates. All Rights Reserved.</small>
+        					</p>
+        				</div>
+        			</div>
+        		</div>
+        	</footer>
+        </section>
     </div>
 </body>
 <!--   Core JS Files   -->
