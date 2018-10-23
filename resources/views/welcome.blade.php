@@ -83,6 +83,116 @@
             </div> -->
         </div>
 
+        <div class="container bloc-lg">
+            <div class="row">
+                <div class="col-sm-2 text-center">
+                    <img src="images/kcb.jpg" width="150px" height="50px" alt="ny-times"/>
+                </div>
+                <div class="col-sm-2 text-center">
+                    <img src="images/cic.png" width="80px" height="50px" alt="ny-times"/>
+                </div>
+                <div class="col-sm-2 text-center">
+                    <img src="images/trans.jpg" width="150px" height="50px" alt="ny-times"/>
+                </div>
+                <div class="col-sm-2 text-center">
+                    <img src="images/mtrh.png" width="80px" height="80px" alt="ny-times"/>
+                </div>
+                <div class="col-sm-2 text-center">
+                    <img src="images/coorp.jpeg" width="150px" height="50px" alt="ny-times"/>
+                </div>
+                <div class="col-sm-2 text-center">
+                    <img src="images/im.png" width="150px" height="50px" alt="ny-times"/>
+                </div>
+            </div>
+            <div class="row">
+            </br>
+            </div>
+
+            <div class="row">
+                <div class="col-sm-2 text-center">
+                    <img src="images/nic.jpeg" width="60px" height="60px" alt="ny-times"/>
+                </div>
+                <div class="col-sm-2 text-center">
+                    <img src="images/krep.png" width="80px" height="50px" alt="ny-times"/>
+                </div>
+                <div class="col-sm-2 text-center">
+                    <img src="images/equity.png" width="80px" height="80px" alt="ny-times"/>
+                </div>
+                <div class="col-sm-2 text-center">
+                    <img src="images/nandi.jpeg" width="80px" height="80px" alt="ny-times"/>
+                </div>
+                <div class="col-sm-2 text-center">
+                    <img src="images/afc.jpeg" width="180px" height="50px" alt="ny-times"/>
+                </div>
+                <div class="col-sm-2 text-center">
+                    <img src="images/telkom.jpeg" width="150px" height="50px" alt="ny-times"/>
+                </div>
+            </div>
+            <div class="row">
+                <br><br>
+                <div class="panel-heading text-center" role="tab">
+                    <h4 class="panel-title">
+                        <a class="btn  btn-xl btn-wire wire-btn-carmine-pink animDelay06 animated fadeInUp" data-toggle="collapse"
+                           data-parent="#accordion"
+                           href="#collapseClients" aria-expanded="false">And More ....</a>
+                    </h4>
+                </div>
+                <div id="collapseClients" class="panel-collapse collapse" role="tabpanel" aria-expanded="false"
+                     style="height: 0px;">
+                    <div class="row">
+                      <div class="col-md-4 text-left">
+                        <h4>Boards and Corporations:-</h4>
+                        <ul>
+                          <li>Agricultural Finance Corporation.</li>
+                          <li>Kenya Railways Corporation.</li>
+                          <li>Industrial Commercial Development Corporation.</li>
+                          <li>National Cereals and Produce Board.</li>
+                          <li>Kenya Re-insurance Corporation.</li>
+                          <li>Telkom Kenya</li>
+                          <li>Kenya Forest Service</li>
+                          <li>Rural Electrification Authority</li>
+                          <li>Kenya Medical Research Institute(KEMRI)</li>
+                          <li>Kenya Rural Roads Authority.</li>
+                        </ul>
+                      </div>
+
+                      <div class="col-md-4 text-left">
+                        <h4>Private Commercial Companies:-</h4>
+                        <ul>
+                          <li>FIMS Limited.</li>
+                          <li>Eldochem Limited.</li>
+                          <li>Eldoret Farm Machinery Limited.</li>
+                          <li>Kenya Farmers’ Association.</li>
+                          <li>EATEC Limited.</li>
+                          <li>Shiv Construction Company Limited.</li>
+                          <li>Vishva Builders Limited.</li>
+                          <li>Tipsy Company Limited.</li>
+                          <li>Turner Barker &amp; Hatfield Limited.</li>
+                        </ul>
+                      </div>
+
+                      <div class="col-md-4">
+                        <h4>Other Banks</h4>
+                        <ul>
+                          <li>Commercial Bank of Africa</li>
+                          <li>Imperial Bank</li>
+                          <li>Family Bank</li>
+                          <li>CFC Stanbic Bank</li>
+                          <li>Bank of Africa.</li>
+                          <li>African Banking Corporation Limited.</li>
+                          <h4>Insurance</h4>
+                          <li>Co-operative Insurance Company Limited.</li>
+                          <h4>Local Authorities</h4>
+                          <li>Uasin Gishu County Government.</li>
+                          <li>Nandi County Council.</li>
+                        </ul>
+                      </div>
+
+                    </div>
+                </div>
+            </div>
+        </div>
+
         <footer class="footer" data-background-color="black">
             <div class="container">
                 <nav>
